@@ -14,7 +14,7 @@
    },
    "generated_by" : "Module::Install version 0.910 using Module::Install::JSONMETA version 7.000",
    "distribution_type" : "module",
-   "version" : "1.000000",
+   "version" : "1.000001",
    "name" : "Class-Discover",
    "author" : [
       "Ash Berlin C<< <ash@cpan.org> >>. (C) 2009. All rights reserved."
